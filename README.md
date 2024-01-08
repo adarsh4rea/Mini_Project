@@ -1,1 +1,1 @@
-# Mini_Project
+This project addresses the critical global challenge of rising carbon dioxide (CO2) emissions, particularly from the combustion of fuels in vehicles, leading to significant climatic changes and environmental disruption. The project aims to analyze CO2 emissions from various vehicles and identify the internal factors that influence these emissions and predict the pollution it emmits.
